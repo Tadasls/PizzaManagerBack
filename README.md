@@ -1,0 +1,3 @@
+﻿# PizzaManager
+
+Picu kepimas
